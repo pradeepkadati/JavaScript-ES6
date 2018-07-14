@@ -1,5 +1,6 @@
 # JavaScript-ES6
 To run the examples we can use one of the 2 ways mentioned below
+
 Browser
 ------
 1) open the index.html file in Edge/ Firefox/ Chrome
